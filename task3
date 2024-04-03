@@ -1,0 +1,6 @@
+a="Hi!"
+b="caramba!"
+c="hohoho"
+print(a)
+print(b)
+print(c)
